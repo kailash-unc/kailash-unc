@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/69515228/211465989-ae9ae7bf-0710-4b9b-8ac4-24f6f62bfacd.gif" width="200"/>
+  <img src="https://user-images.githubusercontent.com/69515228/211465989-ae9ae7bf-0710-4b9b-8ac4-24f6f62bfacd.gif" width="300"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/kailash-muthu">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -49,6 +49,7 @@ I am a Student at UNC Chapel Hill, Software Enginer, and part-time Tech Enthusia
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kailash-unc&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
