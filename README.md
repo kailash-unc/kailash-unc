@@ -13,6 +13,17 @@
 
 ### :man_technologist: About Me :
 
+I am a Student at UNC Chapel Hill, Software Enginer, and part-time Tech Enthusiast!
+
+- :telescope: I’m working as a Software Engineer @Truist and looking for new job opportunities post-graduation.
+
+- :seedling: Always learning new tools & frameworks
+
+- :zap: In my free time, I spend time discovering up and trending innovate tech, and also involved in fitness
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kailash-muthu)
+
+
 
 <!-- ![coder](https://user-images.githubusercontent.com/69515228/211465989-ae9ae7bf-0710-4b9b-8ac4-24f6f62bfacd.gif)
  -->
