@@ -21,7 +21,7 @@ I am a Student at UNC Chapel Hill, Software Enginer, and part-time Tech Enthusia
 
 - :zap: In my free time, I spend time discovering up and trending innovate tech, and also involved in fitness
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kailash-Muthu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kailash-muthu)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kailash-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kailash-muthu)
 
 
 
