@@ -13,13 +13,13 @@
 
 ### :man_technologist: About Me :
 
-I am a Student at UNC Chapel Hill, Software Enginer, and part-time Tech Enthusiast!
+I am a Software Engineer II at Vanguard, as well as a Tech Enthusiast!
 
-- :telescope: I’m working as a Software Engineer @Truist (part-time) and looking for new job opportunities post-graduation.
+- :telescope: Working under the Trade Translation and Aggregation Team at Vanguard (Prev. Software Engineer at Truist - M&A)
 
 - :seedling: Always learning new tools & frameworks
 
-- :zap: In my free time, I spend time discovering up and trending innovate tech, and also involved in fitness
+- :zap: In my free time, I spend time exploring trending innovate tech, and also involved in fitness
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kailash_Muthu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kailash-muthu)
 
